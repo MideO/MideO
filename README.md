@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 ## My GitHub Stats
 
 
-<img width=500 src='https://github-readme-streak-stats.herokuapp.com/?user=MideO&include_orgs=true&theme=vue-dark&hide_border=true' />
-<img width=500 src='https://github-readme-stats.vercel.app/api/top-langs/?username=MideO&include_orgs=true&theme=vue-dark&show_icons=true&hide_border=true&layout=compact' />
-<img width=500 src='https://github-readme-stats.vercel.app/api?username=MideO&include_orgs=true&theme=vue-dark&show_icons=true&hide_border=true&count_private=true' />
+<img width=400 src='https://github-readme-streak-stats.herokuapp.com/?user=MideO&orgs=hmrc&theme=vue-dark&hide_border=true' />
+<img width=400 src='https://github-readme-stats.vercel.app/api/top-langs/?username=MideO&orgs=hmrc&theme=vue-dark&show_icons=true&hide_border=true&layout=compact' />
+<img width=400 src='https://github-readme-stats.vercel.app/api?username=MideO&orgs=hmrc&theme=vue-dark&show_icons=true&hide_border=true&count_private=true' />
